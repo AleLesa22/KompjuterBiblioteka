@@ -33,6 +33,10 @@ if(!isset($_SESSION['admin_name'])){
       <a href="login_form.php" class="btn">login</a>
       <a href="register_form.php" class="btn">registracija</a>
       <a href="logout.php" class="btn">logout</a>
+      <a href="crud.php" class="btn"> Upravljajte sa clanovima baze </a>
+   </div>
+   
+
    </div>
 
 </div>
