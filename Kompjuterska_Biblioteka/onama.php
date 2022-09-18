@@ -37,18 +37,6 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="onama.html">O Nama <span class="sr-only">(current)</span></a></li>
             <li><a href="galerija.php">Galerija Slika!</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Knjige <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Sve knjige</a></li>
-                <li><a href="#">Casopisi</a></li>
-                <li><a href="#">Mapa sajta</a></li>
-                <li role="separator" class="divider"></li>
-                <li><a href="#">Strana za stampu</a></li>
-                <li role="separator" class="divider"></li>
-                <li><a href="#">FAQ</a></li>
-              </ul>
-            </li>
           </ul>
           <form class="navbar-form navbar-left">
             <div class="form-group">
@@ -59,7 +47,8 @@
           </form>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="kontakt.php">Kontakt</a></li>
-            <li><a href="registracija.php">Registracij te se</a>
+            <li><a href="loginsystem/register_form.php">Registujte se</a>
+            <li><a href="loginsystem/login_form.php">Logujte se</a>
               <li><a href="shop.php">Online prodavnica</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
