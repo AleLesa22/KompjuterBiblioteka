@@ -49,7 +49,6 @@
             <li><a href="kontakt.php">Kontakt</a></li>
             <li><a href="loginsystem/register_form.php">Registujte se</a>
             <li><a href="loginsystem/login_form.php">Logujte se</a>
-              <li><a href="shop.php">Online prodavnica</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
@@ -63,12 +62,10 @@
       <div class="row">
         <div class="col-md-6">
 
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Mi smo Kompjuterska biblioteka BookCook,
+         koja se bavi onlajn prodajom kompjuterskih knjiga, 
+         nasa misija je da edukujemo sto vise ljudi 
+         prodajom najraznovrsnijih naslova u svetu IT-a
 
       </div>
         <div class="col-md-6">
@@ -85,11 +82,6 @@
 
     <div class="row">                                                <!-- POCETAK  FOOTER DELA -->
       <div class="col-md-4">
-
-        <div class="page-header">
-          <h4>O Nama</h4>
-          <p> Mi smo Kompjuterska biblioteka BookCook, koja se bavi onlajn prodajom kompjuterskih knjiga, nasa misija je da edukujemo sto vise ljudi prodajom najraznovrsnijih naslova u svetu IT-a</p>
-        </div>
 
       </div>
       <div class="col-md-4">

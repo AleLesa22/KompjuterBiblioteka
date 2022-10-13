@@ -50,7 +50,6 @@
             <li><a href="kontakt.php">Kontakt</a></li>
             <li><a href="loginsystem/register_form.php">Registujte se</a>
             <li><a href="loginsystem/login_form.php">Logujte se</a>
-            <li><a href="shop.php">Online prodavnica</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->

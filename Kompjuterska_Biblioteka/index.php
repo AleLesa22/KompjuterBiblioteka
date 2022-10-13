@@ -50,7 +50,6 @@
             <li><a href="kontakt.php">Kontakt</a></li>
             <li><a href="loginsystem/register_form.php">Registujte se</a>
             <li><a href="loginsystem/login_form.php">Logujte se</a>
-            <li><a href="shop.php">Online prodavnica</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
@@ -79,7 +78,6 @@
       <div class="caption">
         <h3>C++ Knjiga</h3>
         <p>2640rsd</p>
-        <p><a href="#" class="btn btn-primary" role="button">Button</a></p>
       </div>
     </div>
   </div>
@@ -95,7 +93,6 @@
       <div class="caption">
         <h3>C# Knjiga</h3>
         <p>2640rsd</p>
-        <p><a href="#" class="btn btn-primary" role="button">Button</a></p>
       </div>
     </div>
   </div>
@@ -111,7 +108,6 @@
       <div class="caption">
         <h3>MY SQL Knjiga</h3>
         <p>2200rsd</p>
-        <p><a href="#" class="btn btn-primary" role="button">Button</a></p>
       </div>
     </div>
   </div>
@@ -130,7 +126,6 @@
       <div class="caption">
         <h3>Napredni Web Dizajn</h3>
         <p>1410rsd</p>
-        <p><a href="#" class="btn btn-primary" role="button">Button</a></p>
       </div>
     </div>
   </div>
@@ -146,7 +141,6 @@
       <div class="caption">
         <h3>Java Programiranje Knjiga</h3>
         <p>1210rsd</p>
-        <p><a href="#" class="btn btn-primary" role="button">Button</a></p>
       </div>
     </div>
   </div>
@@ -162,7 +156,6 @@
       <div class="caption">
         <h3>Web Programiranje Knjiga</h3>
         <p>1540rsd</p>
-        <p><a href="#" class="btn btn-primary" role="button">Button</a></p>
       </div>
     </div>
   </div>

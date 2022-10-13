@@ -50,7 +50,6 @@
             <li><a href="kontakt.php">Kontakt</a></li>
             <li><a href="loginsystem/register_form.php">Registujte se</a>
             <li><a href="loginsystem/login_form.php">Logujte se</a>
-            <li><a href="shop.php">Online prodavnica</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
@@ -71,8 +70,8 @@
             <input type="email" class="form-control" id="exampleInputEmail1" name="email" placeholder="Email">
           </div>
           <div class="form-group">
-            <label for="exampleInputPassword1">Password</label>
-            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+            <label for="exampleInputEmail1">Subject:</label>
+            <input type="text" class="form-control" id="exampleSubject" name="Subject" placeholder="Subject">
           </div>
           <div class="form-group">
             <label for="inputText">Vasa poruka</label>
